@@ -1,1 +1,0 @@
-{"version":3,"file":"App-Bwp3mNFO.js","sources":["../../src/App.tsx"],"sourcesContent":["import { Outlet } from 'react-router-dom';\n\nconst App = () => {\n  return <Outlet />;\n};\n\nexport default App;\n"],"names":["App","Outlet"],"mappings":"+CAEA,MAAMA,EAAM,UACFC,EAAA,EAAO"}
